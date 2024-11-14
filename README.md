@@ -6,9 +6,13 @@ This is the source code for the [IDE Website](https://hakamshams.github.io/IDE/)
 If you find our work useful in your research, please cite:
 
 ```
-
-To appear on Openreview ...
-
+@inproceedings{eddin2024identifying,
+               title={Identifying Spatio-Temporal Drivers of Extreme Events},
+               author={Mohamad Hakam Shams Eddin and Juergen Gall},
+               booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+               year={2024},
+               url={https://openreview.net/forum?id=DdKdr4kqxh}
+               }
 ```
 
 ## Website License
